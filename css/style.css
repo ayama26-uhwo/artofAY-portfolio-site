@@ -61,6 +61,15 @@ text-align: center;}
 padding: 45px;
 align-content: center;}
 
+/* AY Secondary Project Heading */
+h5 {color: #3A50F8;
+font-family: 'Lato';
+font-size: 24px;
+font-style: italic;
+font-weight: 900;
+line-height: 28px; /* 116.667% */
+text-align: center;}
+
 /* AY Body Text */
 p {color: #000000;
 font-family: 'Inria Sans';
