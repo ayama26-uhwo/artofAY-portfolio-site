@@ -61,6 +61,10 @@ text-align: center;}
 padding: 45px;
 align-content: center;}
 
+.Process {background-color: rgb(207, 226, 255);
+padding: 45px;
+align-content: center;}
+
 /* AY Secondary Project Heading */
 h5 {color: #3A50F8;
 font-family: 'Lato';
@@ -92,6 +96,15 @@ p3
 font-family: 'Inria Sans';
 font-size: 12px;
 font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 116.667% */
+text-align: center}
+
+p4
+{color: #4a4a4a;
+font-family: 'Inria Sans';
+font-size: 12px;
+font-style: italic;
 font-weight: 400;
 line-height: 28px; /* 116.667% */
 text-align: center}
