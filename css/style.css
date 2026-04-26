@@ -6,13 +6,14 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;}
 
-.nav-link {color:#3A50F8;
+.nav-item {color:#3A50F8;
 font-family: 'Lato';
 font-size: 20px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-text-align: right;}
+text-align: right;
+justify-content: end;}
 
 
 
