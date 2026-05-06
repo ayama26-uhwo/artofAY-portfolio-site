@@ -1,10 +1,26 @@
 /* AY Navbar Logo */
+.navbar-collapse {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    height:fit-content;
+    width: 100%;
+    position: sticky;
+    top:0%;
+}
+
 .navbar-brand {color: var(--Gray-800, #000000);
 font-family: 'Gruppo', serif;
 font-size: 20px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;}
+
+.navbar-toggler {
+    display:flex;
+    justify-content: right;
+    position: sticky;
+}
 
 .nav-item {color:#3A50F8;
 font-family: 'Lato';
